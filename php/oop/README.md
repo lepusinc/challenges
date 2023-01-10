@@ -17,5 +17,5 @@ $circle->getPerimeter();
 ```
 
 ## Notes
-* PHP 8.0+ required.
+* PHP 8.1+ required.
 * Don't worry about floating point precision.
