@@ -8,7 +8,7 @@
 ## Task 1: Make a Circle class with OOP
 
 ### Requirement
-* Create a Circle constructor that creates a circle with a radius provided by an argument. (`php/src/Task1.php`)
+* Create a `Circle` constructor that creates a circle with a radius provided by an argument. (`php/src/Task1.php`)
   * The circles constructed must have two getters `getArea()` `(PI*r^2)` and `getPerimeter()` `(2*PI*r)` which give both respective areas and perimeter (circumference).
   * Don't worry about floating point precision.
 * Please consider and implement unit tests that verify the basic requirements of each methods. (`php/tests/Task1Test.php`)
